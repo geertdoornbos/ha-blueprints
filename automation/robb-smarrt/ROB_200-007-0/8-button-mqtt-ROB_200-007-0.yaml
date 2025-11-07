@@ -4,7 +4,6 @@ blueprint:
     This blueprint is for the ROBB ROB_200-007-0 dimmer switch when used
     with mqtt. It is for genral use so all buttons can be connected to any
     action of your choice. Make sure to enter the correct topic for the remote.
-    Original source partial from: https://github.com/Bekkie/ha-blueprints
   domain: automation
   source_url: https://github.com/geertdoornbos/ha-blueprints/blob/main/automation/robb-smarrt/ROB_200-007-0/8-button-mqtt-ROB_200-007-0.yaml
   input:
