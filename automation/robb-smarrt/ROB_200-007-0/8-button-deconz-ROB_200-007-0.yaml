@@ -1,5 +1,5 @@
 blueprint:
-  name: Robb Smarrt 8-button switch
+  name: Robb Smarrt 8-button switch for Deconz
   description:  |
     This blueprint is for the  Robb smarrt 8-button switch panel (ROBB ROB_200-007-0) when used with deconz.
     It is for general use so all buttons can be connected to any action of your choice. This remote supports short button clicks and long button presses (over 4 seconds)
